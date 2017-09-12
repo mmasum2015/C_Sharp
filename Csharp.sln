@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyerTest", "MultiplyerTest\MultiplyerTest.csproj", "{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyerTestLib", "MultiplyerTest\MultiplyerTestLib.csproj", "{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyerLib", "MultiplyerLib\MultiplyerLib.csproj", "{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1App", "Demo1App\Demo1App.csproj", "{911AAADF-42AD-49C7-998C-FDD7FEC40C56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911AAADF-42AD-49C7-998C-FDD7FEC40C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911AAADF-42AD-49C7-998C-FDD7FEC40C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911AAADF-42AD-49C7-998C-FDD7FEC40C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911AAADF-42AD-49C7-998C-FDD7FEC40C56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
