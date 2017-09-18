@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D63F621B-3BDA-4C0C-AA57-2C8529CFF16B}</ProjectGuid>
+    <ProjectGuid>{5B12C1F4-0B06-45E5-9E00-8FA7FC122B63}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MultiplyerTest</RootNamespace>
-    <AssemblyName>MultiplyerTest</AssemblyName>
+    <RootNamespace>VarukorgTestLib</RootNamespace>
+    <AssemblyName>VarukorgTestLib</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -48,13 +48,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileConverterTest.cs" />
-    <Compile Include="MultiplyerTest.cs" />
+    <Compile Include="VarukorgTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PurchaseCalcutationTests.cs" />
-    <Compile Include="ListHandlerTests.cs" />
-    <Compile Include="DateHandlerTests.cs" />
-    <Compile Include="StorytellerTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -68,12 +63,14 @@
       <Project>{eafcebf0-a408-48ea-ab69-259ce6ba9612}</Project>
       <Name>MultiplyerLib</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="after.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="before.txt" />
+    <ProjectReference Include="..\MultiplyerTest\MultiplyerTestLib.csproj">
+      <Project>{d63f621b-3bda-4c0c-aa57-2c8529cff16b}</Project>
+      <Name>MultiplyerTestLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VarukorgLib\VarukorgLib.csproj">
+      <Project>{4ec51802-719a-4778-97c4-70b2021d5ba2}</Project>
+      <Name>VarukorgLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

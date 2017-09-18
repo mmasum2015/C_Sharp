@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAFCEBF0-A408-48EA-AB69-259CE6BA9612}</ProjectGuid>
+    <ProjectGuid>{4EC51802-719A-4778-97C4-70B2021D5BA2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MultiplyerLib</RootNamespace>
-    <AssemblyName>MultiplyerLib</AssemblyName>
+    <RootNamespace>VarukorgLib</RootNamespace>
+    <AssemblyName>VarukorgLib</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,15 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DateHandler.cs" />
-    <Compile Include="FileConverter.cs" />
     <Compile Include="Kund.cs" />
-    <Compile Include="ListHandler.cs" />
-    <Compile Include="Multiplyer.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PurchaseCalculation.cs" />
-    <Compile Include="Storyteller.cs" />
+    <Compile Include="Orderbekräftelse.cs" />
+    <Compile Include="Produkt.cs" />
     <Compile Include="Varukorg.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
