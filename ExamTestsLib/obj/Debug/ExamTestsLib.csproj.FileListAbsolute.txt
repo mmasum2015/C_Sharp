@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\ExamTestsLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\ExamTestsLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\ExamLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\ExamLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\obj\Debug\ExamTestsLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\obj\Debug\ExamTestsLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamTestsLib\obj\Debug\ExamTestsLib.pdb

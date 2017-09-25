@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamLib\bin\Debug\ExamLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamLib\bin\Debug\ExamLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamLib\obj\Debug\ExamLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamLib\obj\Debug\ExamLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamLib\obj\Debug\ExamLib.pdb

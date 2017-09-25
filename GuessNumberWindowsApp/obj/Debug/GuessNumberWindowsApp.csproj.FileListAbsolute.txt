@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\bin\Debug\GuessNumberWindowsApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\bin\Debug\GuessNumberWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\bin\Debug\GuessNumberWindowsApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\bin\Debug\GuessNumber.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\bin\Debug\GuessNumber.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumberWindowsApp\obj\Debug\GuessNumberWindowsApp.pdb

@@ -8,5 +8,7 @@ namespace VarukorgLib
 {
     public class Orderbekräftelse
     {
+        public string Meddelande { get; set; }
+
     }
 }

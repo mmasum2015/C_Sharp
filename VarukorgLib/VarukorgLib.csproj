@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4EC51802-719A-4778-97C4-70B2021D5BA2}</ProjectGuid>
+    <ProjectGuid>{801F8C80-CCD5-4C09-9240-D776BCDE0BB3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>VarukorgLib</RootNamespace>

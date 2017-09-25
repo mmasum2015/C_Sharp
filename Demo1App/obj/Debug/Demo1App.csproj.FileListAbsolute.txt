@@ -1,0 +1,6 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\bin\Debug\Demo1App.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\bin\Debug\Demo1App.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\bin\Debug\Demo1App.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\obj\Debug\Demo1App.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\obj\Debug\Demo1App.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Demo1App\obj\Debug\Demo1App.pdb

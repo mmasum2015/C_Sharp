@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\VarukorgLib\bin\Debug\VarukorgLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\VarukorgLib\bin\Debug\VarukorgLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\VarukorgLib\obj\Debug\VarukorgLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\VarukorgLib\obj\Debug\VarukorgLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\VarukorgLib\obj\Debug\VarukorgLib.pdb

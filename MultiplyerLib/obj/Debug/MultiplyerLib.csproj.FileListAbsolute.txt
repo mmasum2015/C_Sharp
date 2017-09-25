@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\MultiplyerLib\bin\Debug\MultiplyerLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\MultiplyerLib\bin\Debug\MultiplyerLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\MultiplyerLib\obj\Debug\MultiplyerLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\MultiplyerLib\obj\Debug\MultiplyerLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\MultiplyerLib\obj\Debug\MultiplyerLib.csprojResolveAssemblyReference.cache

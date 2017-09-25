@@ -1,0 +1,4 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumber\bin\Debug\GuessNumber.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumber\obj\Debug\GuessNumber.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\GuessNumber\obj\Debug\GuessNumber.pdb

@@ -39,5 +39,15 @@ namespace StoryTellerWindowsApp
 
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbNameOfChild_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

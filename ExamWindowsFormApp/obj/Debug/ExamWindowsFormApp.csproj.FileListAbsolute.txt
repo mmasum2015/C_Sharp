@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\bin\Debug\ExamWindowsFormApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\bin\Debug\ExamWindowsFormApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\bin\Debug\ExamWindowsFormApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\bin\Debug\ExamLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\bin\Debug\ExamLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ExamWindowsFormApp\obj\Debug\ExamWindowsFormApp.pdb

@@ -10,13 +10,19 @@ namespace VarukorgLib
     {
         public string FirstName;
         public string LastName;
-        public 
-
-
+        public string Name
+        {
+            get
+            {
+                return $"{FirstName} {LastName}";
+            }
+        }
         public Kund(string firstName, string lastName)
         {
             this.FirstName = firstName;
             this.LastName = lastName;
         }
+
+
     }
 }

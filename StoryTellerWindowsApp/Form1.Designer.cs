@@ -64,6 +64,7 @@
             this.tbNameOfChild.Name = "tbNameOfChild";
             this.tbNameOfChild.Size = new System.Drawing.Size(184, 20);
             this.tbNameOfChild.TabIndex = 2;
+            this.tbNameOfChild.TextChanged += new System.EventHandler(this.tbNameOfChild_TextChanged);
             // 
             // ageOfChild
             // 
@@ -122,6 +123,7 @@
             this.Controls.Add(this.NameOfChild);
             this.Name = "Form1";
             this.Text = "StorytellerForm";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numAge)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

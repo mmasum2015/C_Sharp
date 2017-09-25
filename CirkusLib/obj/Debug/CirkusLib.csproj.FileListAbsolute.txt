@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CirkusLib\bin\Debug\CirkusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CirkusLib\bin\Debug\CirkusLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CirkusLib\obj\Debug\CirkusLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CirkusLib\obj\Debug\CirkusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CirkusLib\obj\Debug\CirkusLib.pdb

@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\bin\Debug\StoryTellerWindowsApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\bin\Debug\StoryTellerWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\bin\Debug\StoryTellerWindowsApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\bin\Debug\MultiplyerLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\bin\Debug\MultiplyerLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\StoryTellerWindowsApp\obj\Debug\StoryTellerWindowsApp.pdb
