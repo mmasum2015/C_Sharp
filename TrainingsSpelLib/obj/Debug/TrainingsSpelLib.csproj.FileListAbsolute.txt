@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TrainingsSpelLib\bin\Debug\TrainingsSpelLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TrainingsSpelLib\bin\Debug\TrainingsSpelLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TrainingsSpelLib\obj\Debug\TrainingsSpelLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TrainingsSpelLib\obj\Debug\TrainingsSpelLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TrainingsSpelLib\obj\Debug\TrainingsSpelLib.pdb
