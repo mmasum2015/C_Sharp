@@ -1,0 +1,6 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\bin\Debug\CarBuilderApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\bin\Debug\CarBuilderApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\bin\Debug\CarBuilderApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\obj\Debug\CarBuilderApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\obj\Debug\CarBuilderApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CarBuilderApp\obj\Debug\CarBuilderApp.pdb

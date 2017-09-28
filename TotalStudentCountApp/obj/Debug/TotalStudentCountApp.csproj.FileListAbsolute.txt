@@ -1,0 +1,6 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\bin\Debug\TotalStudentCountApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\bin\Debug\TotalStudentCountApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\bin\Debug\TotalStudentCountApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\obj\Debug\TotalStudentCountApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\obj\Debug\TotalStudentCountApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\TotalStudentCountApp\obj\Debug\TotalStudentCountApp.pdb

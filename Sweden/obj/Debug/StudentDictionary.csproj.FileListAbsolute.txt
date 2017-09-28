@@ -1,0 +1,6 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\bin\Debug\Sweden.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\bin\Debug\Sweden.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\bin\Debug\Sweden.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\obj\Debug\StudentDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\obj\Debug\Sweden.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\Sweden\obj\Debug\Sweden.pdb

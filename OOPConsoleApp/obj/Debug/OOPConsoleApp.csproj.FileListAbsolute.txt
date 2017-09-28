@@ -1,0 +1,6 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\bin\Debug\OOPConsoleApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\bin\Debug\OOPConsoleApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\bin\Debug\OOPConsoleApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\obj\Debug\OOPConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\obj\Debug\OOPConsoleApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OOPConsoleApp\obj\Debug\OOPConsoleApp.pdb
