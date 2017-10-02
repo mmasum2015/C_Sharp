@@ -8,16 +8,12 @@ namespace TotalStudentCountApp
         
         private string NameOfSchool;
        
-
-
-
         public School(string nameOfSchool)
         {
             this.NameOfSchool = nameOfSchool;
         }
 
         public List<Class> aClass { get; internal set; } = new List<Class>();
-
 
         public int numberOfStudents
         {
@@ -27,8 +23,6 @@ namespace TotalStudentCountApp
             }
 
         }
-
-
 
         public override string ToString()
         {

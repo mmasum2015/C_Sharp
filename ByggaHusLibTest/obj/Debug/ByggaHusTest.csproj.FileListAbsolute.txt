@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\ByggaHusLibTest.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\ByggaHusLibTest.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\ByggaHusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\ByggaHusLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\obj\Debug\ByggaHusTest.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\obj\Debug\ByggaHusLibTest.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLibTest\obj\Debug\ByggaHusLibTest.pdb

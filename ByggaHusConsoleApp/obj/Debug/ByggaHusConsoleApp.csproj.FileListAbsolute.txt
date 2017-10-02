@@ -1,0 +1,8 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\bin\Debug\ByggaHusConsoleApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\bin\Debug\ByggaHusConsoleApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\bin\Debug\ByggaHusConsoleApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\bin\Debug\ByggaHusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\bin\Debug\ByggaHusLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\obj\Debug\ByggaHusConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\obj\Debug\ByggaHusConsoleApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusConsoleApp\obj\Debug\ByggaHusConsoleApp.pdb

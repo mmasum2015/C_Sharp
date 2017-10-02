@@ -1,0 +1,9 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\bin\Debug\ConvertToUpperCaseApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\bin\Debug\ConvertToUpperCaseApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\bin\Debug\ConvertToUpperCaseApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ConvertToUpperCaseApp\obj\Debug\ConvertToUpperCaseApp.pdb

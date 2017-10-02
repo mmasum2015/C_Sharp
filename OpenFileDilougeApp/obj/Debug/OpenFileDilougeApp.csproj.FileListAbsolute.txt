@@ -1,0 +1,9 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\bin\Debug\OpenFileDilougeApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\bin\Debug\OpenFileDilougeApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\bin\Debug\OpenFileDilougeApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\OpenFileDilougeApp\obj\Debug\OpenFileDilougeApp.pdb

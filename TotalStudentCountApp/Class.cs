@@ -5,9 +5,9 @@
         public int NumberOfStudents;
         public string Course;
 
-        public Class(string course ,int numberOfStudents)
+        public Class(int numberOfStudents)
         {
-            this.Course = course;
+            //this.Course = course;
             this.NumberOfStudents = numberOfStudents;
         }
 

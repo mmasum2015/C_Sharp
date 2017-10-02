@@ -1,0 +1,9 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\bin\Debug\CustomerInformationApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\bin\Debug\CustomerInformationApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\bin\Debug\CustomerInformationApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerInformationApp\obj\Debug\CustomerInformationApp.pdb

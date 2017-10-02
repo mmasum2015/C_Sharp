@@ -1,0 +1,9 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\bin\Debug\SlideShowApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SlideShowApp\obj\Debug\SlideShowApp.pdb

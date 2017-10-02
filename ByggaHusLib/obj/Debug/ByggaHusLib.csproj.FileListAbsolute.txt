@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLib\bin\Debug\ByggaHusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLib\bin\Debug\ByggaHusLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLib\obj\Debug\ByggaHusLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLib\obj\Debug\ByggaHusLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ByggaHusLib\obj\Debug\ByggaHusLib.pdb

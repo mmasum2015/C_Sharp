@@ -11,10 +11,10 @@ namespace TotalStudentCountApp
         static void Main(string[] args)
         {
             var aSchool = new School("EC Utbildning");
-            var SPO15 = new Class("MVC", 30);
-            var SPO16 = new Class("C#",27);
-            var SPO17 = new Class("C++",32);
-            var INP17 = new Class("Java",32);
+            var SPO15 = new Class( 30);
+            var SPO16 = new Class(27);
+            var SPO17 = new Class(32);
+            var INP17 = new Class(32);
 
             aSchool.aClass.Add(SPO16);
             aSchool.aClass.Add(SPO17);
