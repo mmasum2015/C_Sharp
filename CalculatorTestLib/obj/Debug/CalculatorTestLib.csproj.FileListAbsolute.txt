@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\CalculatorTestLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\CalculatorTestLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\CalculatorLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\CalculatorLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\obj\Debug\CalculatorTestLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\obj\Debug\CalculatorTestLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorTestLib\obj\Debug\CalculatorTestLib.pdb

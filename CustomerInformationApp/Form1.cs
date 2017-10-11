@@ -27,7 +27,7 @@ namespace CustomerInformationApp
             var a = txtBoxName.Text;
             var b = textBox2.Text;
             var c = dateTimePicker1.Value.ToString("yyyy-mm-dd");
-            var getinfo = $"{a} + {b} + {c}";
+            var getinfo = $"{a} ; {b} ; {c}";
             MessageBox.Show(getinfo);
 
         }

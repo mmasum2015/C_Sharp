@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\EmployeeLibTest.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\EmployeeLibTest.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\obj\Debug\EmployeeLibTest.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\obj\Debug\EmployeeLibTest.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\obj\Debug\EmployeeLibTest.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\EmployeeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLibTest\bin\Debug\EmployeeLib.pdb

@@ -1,0 +1,15 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\SIEImportTests.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\SIEImportTests.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\obj\Debug\SIEImportTests.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\obj\Debug\SIEImportTests.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\obj\Debug\SIEImportTests.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\SIEAccountLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\SIEImportTests\bin\Debug\SIEAccountLib.pdb

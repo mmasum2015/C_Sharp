@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLib\bin\Debug\EmployeeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLib\bin\Debug\EmployeeLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLib\obj\Debug\EmployeeLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLib\obj\Debug\EmployeeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\EmployeeLib\obj\Debug\EmployeeLib.pdb

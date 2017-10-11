@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\bin\Debug\CalculatorWinApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\bin\Debug\CalculatorWinApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\bin\Debug\CalculatorWinApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\bin\Debug\CalculatorLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\bin\Debug\CalculatorLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CalculatorWinApp\obj\Debug\CalculatorWinApp.pdb
