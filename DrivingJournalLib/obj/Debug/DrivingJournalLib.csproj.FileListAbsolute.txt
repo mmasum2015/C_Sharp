@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLib\bin\Debug\DrivingJournalLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLib\bin\Debug\DrivingJournalLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLib\obj\Debug\DrivingJournalLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLib\obj\Debug\DrivingJournalLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLib\obj\Debug\DrivingJournalLib.pdb

@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\bin\Debug\DriverJournalWindowsApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\bin\Debug\DriverJournalWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\bin\Debug\DriverJournalWindowsApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\bin\Debug\DrivingJournalLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\bin\Debug\DrivingJournalLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DriverJournalWindowsApp\obj\Debug\DriverJournalWindowsApp.pdb

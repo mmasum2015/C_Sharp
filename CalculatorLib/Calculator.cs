@@ -20,7 +20,7 @@ namespace CalculatorLib
         public void Press(string key)
         {
             //Display = int.Parse(key);
-            if (key=="+")
+            if (key == "+")
             {
                 var number = int.Parse(buffer);
                 numbers.Add(number);
@@ -35,6 +35,7 @@ namespace CalculatorLib
             }
             else
             {
+                //Two numbers side by side
                 buffer += key;
                 Display = int.Parse(buffer);
             }

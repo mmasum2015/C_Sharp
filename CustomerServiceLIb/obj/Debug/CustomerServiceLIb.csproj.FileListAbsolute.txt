@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerServiceLIb\bin\Debug\CustomerServiceLIb.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerServiceLIb\bin\Debug\CustomerServiceLIb.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerServiceLIb\obj\Debug\CustomerServiceLIb.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerServiceLIb\obj\Debug\CustomerServiceLIb.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\CustomerServiceLIb\obj\Debug\CustomerServiceLIb.pdb

@@ -25,7 +25,7 @@ namespace CalculatorTestLib
             //Arrange
             var sut = new Calculator();
             //Act
-            sut.Press("7");
+             sut.Press("7");
             //Assert
             Assert.AreEqual(7, sut.Display);
         }
@@ -54,6 +54,7 @@ namespace CalculatorTestLib
             sut.Press("=");
             //Assert
             Assert.AreEqual(37, sut.Display);
+            Debug.WriteLine(sut.Display);
         }
     }
 }

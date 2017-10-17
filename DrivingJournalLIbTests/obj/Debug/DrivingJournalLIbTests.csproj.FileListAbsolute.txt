@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\DrivingJournalLIbTests.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\DrivingJournalLIbTests.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\DrivingJournalLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\DrivingJournalLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\obj\Debug\DrivingJournalLIbTests.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\obj\Debug\DrivingJournalLIbTests.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\DrivingJournalLIbTests\obj\Debug\DrivingJournalLIbTests.pdb

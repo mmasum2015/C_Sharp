@@ -25,5 +25,10 @@ namespace CalculatorWinApp
             calculator.Press(aButton.Text);
             label1.Text = calculator.Display.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            label2.Text = "Masum";
+        }
     }
 }
