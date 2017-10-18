@@ -38,5 +38,17 @@ namespace PracticeWindowsFormsApp
 
             File.WriteAllText(@"C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\TextPracticeFile.txt", praclass.Greeting);
         }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            File.WriteAllText(@"C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\TextPracticeFile.txt", praclass.Greeting);
+            string[] lines = File.ReadAllLines(@"C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\TextPracticeFile.txt");
+
+            foreach (var line in lines)
+            {
+                MessageBox.Show("\t" + line);
+            }
+        }
+
     }
 }

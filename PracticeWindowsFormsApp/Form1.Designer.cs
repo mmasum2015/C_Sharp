@@ -38,6 +38,7 @@
             this.labelView = new System.Windows.Forms.Label();
             this.labelAge = new System.Windows.Forms.Label();
             this.textBoxAge = new System.Windows.Forms.TextBox();
+            this.btnPrint = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -59,7 +60,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(36, 90);
+            this.label2.Location = new System.Drawing.Point(62, 83);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 2;
@@ -124,11 +125,22 @@
             this.textBoxAge.Size = new System.Drawing.Size(100, 20);
             this.textBoxAge.TabIndex = 9;
             // 
+            // btnPrint
+            // 
+            this.btnPrint.Location = new System.Drawing.Point(262, 247);
+            this.btnPrint.Name = "btnPrint";
+            this.btnPrint.Size = new System.Drawing.Size(75, 23);
+            this.btnPrint.TabIndex = 10;
+            this.btnPrint.Text = "Print";
+            this.btnPrint.UseVisualStyleBackColor = true;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(640, 305);
+            this.Controls.Add(this.btnPrint);
             this.Controls.Add(this.textBoxAge);
             this.Controls.Add(this.labelAge);
             this.Controls.Add(this.labelView);
@@ -159,6 +171,7 @@
         private System.Windows.Forms.Label labelView;
         private System.Windows.Forms.Label labelAge;
         private System.Windows.Forms.TextBox textBoxAge;
+        private System.Windows.Forms.Button btnPrint;
     }
 }
 
