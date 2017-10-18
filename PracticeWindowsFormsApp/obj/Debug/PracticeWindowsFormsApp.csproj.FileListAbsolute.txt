@@ -1,0 +1,11 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\bin\Debug\PracticeWindowsFormsApp.exe.config
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\bin\Debug\PracticeWindowsFormsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\bin\Debug\PracticeWindowsFormsApp.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\bin\Debug\PracticeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\bin\Debug\PracticeLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.Form1.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.Properties.Resources.resources
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.exe
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeWindowsFormsApp\obj\Debug\PracticeWindowsFormsApp.pdb

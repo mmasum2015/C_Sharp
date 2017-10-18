@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartLib\bin\Debug\PartLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartLib\bin\Debug\PartLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartLib\obj\Debug\PartLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartLib\obj\Debug\PartLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartLib\obj\Debug\PartLib.pdb

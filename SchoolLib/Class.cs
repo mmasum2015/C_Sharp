@@ -10,5 +10,7 @@ namespace SchoolLib
     {
         public string Name { get; set; }
         public int NumberOfStudents { get; internal set; }
+
+
     }
 }

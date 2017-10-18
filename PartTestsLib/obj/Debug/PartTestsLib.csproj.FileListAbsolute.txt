@@ -1,0 +1,14 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\PartTestsLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\PartTestsLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\PartLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\PartLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\obj\Debug\PartTestsLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\obj\Debug\PartTestsLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PartTestsLib\obj\Debug\PartTestsLib.pdb

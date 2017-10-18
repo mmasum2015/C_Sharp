@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeLib\bin\Debug\PracticeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeLib\bin\Debug\PracticeLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeLib\obj\Debug\PracticeLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeLib\obj\Debug\PracticeLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\PracticeLib\obj\Debug\PracticeLib.pdb

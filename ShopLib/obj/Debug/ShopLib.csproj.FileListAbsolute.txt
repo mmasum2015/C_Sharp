@@ -1,0 +1,5 @@
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ShopLib\bin\Debug\ShopLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ShopLib\bin\Debug\ShopLib.pdb
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ShopLib\obj\Debug\ShopLib.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ShopLib\obj\Debug\ShopLib.dll
+C:\Users\Studerande\Desktop\CSharpClass\Csharp\ShopLib\obj\Debug\ShopLib.pdb
