@@ -36,8 +36,6 @@
             this.textBoxPhone = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.labelView = new System.Windows.Forms.Label();
-            this.labelAge = new System.Windows.Forms.Label();
-            this.textBoxAge = new System.Windows.Forms.TextBox();
             this.btnPrint = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -76,7 +74,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(24, 182);
+            this.label3.Location = new System.Drawing.Point(24, 157);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(78, 13);
             this.label3.TabIndex = 4;
@@ -84,7 +82,7 @@
             // 
             // textBoxPhone
             // 
-            this.textBoxPhone.Location = new System.Drawing.Point(128, 182);
+            this.textBoxPhone.Location = new System.Drawing.Point(128, 150);
             this.textBoxPhone.Name = "textBoxPhone";
             this.textBoxPhone.Size = new System.Drawing.Size(255, 20);
             this.textBoxPhone.TabIndex = 5;
@@ -109,22 +107,6 @@
             this.labelView.TabIndex = 7;
             this.labelView.Text = "View";
             // 
-            // labelAge
-            // 
-            this.labelAge.AutoSize = true;
-            this.labelAge.Location = new System.Drawing.Point(62, 134);
-            this.labelAge.Name = "labelAge";
-            this.labelAge.Size = new System.Drawing.Size(26, 13);
-            this.labelAge.TabIndex = 8;
-            this.labelAge.Text = "Age";
-            // 
-            // textBoxAge
-            // 
-            this.textBoxAge.Location = new System.Drawing.Point(128, 134);
-            this.textBoxAge.Name = "textBoxAge";
-            this.textBoxAge.Size = new System.Drawing.Size(100, 20);
-            this.textBoxAge.TabIndex = 9;
-            // 
             // btnPrint
             // 
             this.btnPrint.Location = new System.Drawing.Point(262, 247);
@@ -141,8 +123,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(640, 305);
             this.Controls.Add(this.btnPrint);
-            this.Controls.Add(this.textBoxAge);
-            this.Controls.Add(this.labelAge);
             this.Controls.Add(this.labelView);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBoxPhone);
@@ -169,8 +149,6 @@
         private System.Windows.Forms.TextBox textBoxPhone;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label labelView;
-        private System.Windows.Forms.Label labelAge;
-        private System.Windows.Forms.TextBox textBoxAge;
         private System.Windows.Forms.Button btnPrint;
     }
 }
